@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-80.20582048925466, 25.812018267729485],
+            [-80.20564104730506, 25.80345641417135],
+            [-80.20528216340726, 25.795378626731093],
+            [-80.19457546045106, 25.7957556023906],
+            [-80.19074736553894, 25.811210572127536],
+            [-80.20582048925466, 25.812018267729485]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Wynwood",
+        "holc_id": "D6",
+        "holc_grade": "B",
+        "area_description_data": {
+          "covers": "entirety of Wynwood"
+        }
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-80.19525558875081, 25.810424735669983],
+            [-80.19510793310367, 25.806809108099756],
+            [-80.19315887856402, 25.806848986946775],
+            [-80.1920809923408, 25.80664959257747],
+            [-80.1910916995064, 25.810531075986674],
+            [-80.19525558875081, 25.810424735669983]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Shops at Miami",
+        "holc_id": "D6",
+        "holc_grade": "C",
+        "area_description_data": {
+          "covers": "just the shops"
+        }
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-80.20105599537196, 25.801356594637255],
+            [-80.2010704626609, 25.800744416968314],
+            [-80.19916078045809, 25.800770467146677],
+            [-80.1991897150367, 25.801460794776972],
+            [-80.20105599537196, 25.801356594637255]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Wynwood Walls",
+        "holc_id": "D6",
+        "holc_grade": "C",
+        "area_description_data": {
+          "covers": "walls plus graffiti plus selfie museum"
+        }
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-80.19544752941138, 25.814771810654676],
+            [-80.19544752941138, 25.811889308151535],
+            [-80.19141843599226, 25.811889308151535],
+            [-80.19141843599226, 25.814771810654676],
+            [-80.19544752941138, 25.814771810654676]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Miami Design Disrict",
+        "holc_id": "D6",
+        "holc_grade": "C",
+        "area_description_data": {
+          "covers": "spills over into wynwood"
+        }
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-80.208252, 25.802688],
+              [-80.208461, 25.807258],
+              [-80.208252, 25.802688]
+            ]
+          ],
+          [
+            [
+              [-80.195902, 25.803967],
+              [-80.195769, 25.799979],
+              [-80.198146, 25.799893],
+              [-80.198146, 25.803865],
+              [-80.19999, 25.803796],
+              [-80.200009, 25.797291],
+              [-80.206227, 25.797257],
+              [-80.206151, 25.798866],
+              [-80.206189, 25.799619],
+              [-80.206683, 25.808863],
+              [-80.206721, 25.809206],
+              [-80.206759, 25.809651],
+              [-80.195313, 25.809925],
+              [-80.195047, 25.803967],
+              [-80.195902, 25.803967]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Northwest Miami",
+        "holc_id": "D6",
+        "holc_grade": "D",
+        "area_description_data": {
+          "5": "",
+          "6": "Majority in Northwest portion of City of Miami, Florida D 6",
+          "31": "80",
+          "32": "20",
+          "33": "",
+          "1a": "Level",
+          "1b": "Close to good transportation and community shopping centers.",
+          "1c": "Lack of adequate zoning restrictions in majority of the area, poorly improved streets, lack of utilities.",
+          "1d": "25",
+          "1e": "Static",
+          "2a": "Clerks, mechanics, small merchants, a few professional men",
+          "2b": "1,000-3,500",
+          "2c": "10 Cubans",
+          "2d": "None ",
+          "2e": "Cubans",
+          "2f": "Few",
+          "2g": "slowly  ",
+          "3a": "1 storu 1 & 2 story singles ",
+          "3b": "C B S & Frame C B S & Frame ",
+          "3c": "6-15 1-3 ",
+          "3d": "Fair Good ",
+          "3e": "80 80 ",
+          "3f": "35 40 ",
+          "3g": "None 40 ($2,500-4,500) ",
+          "3h": "1,000-6,000 2,000-3,500 ",
+          "3i": "1935 1,500-7,000 133 3,000-5,000 147  ",
+          "3j": "1938 1,500-7,000 133 3,000-5,000 147  ",
+          "3k": "Fair Fair ",
+          "3l": "Fair Fair ",
+          "3m": "12-35 15-35 ",
+          "3n": "1935 15-45 127 20-45 131  ",
+          "3o": "1938 15-45 127 20-45 131  ",
+          "3p": "Fair Fair ",
+          "3q": "Fair Fair ",
+          "4a": "limited",
+          "4b": "limited"
+        }
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-80.206227, 25.795196],
+              [-80.206001, 25.797126],
+              [-80.194955, 25.797324],
+              [-80.194936, 25.79409]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Downtown Northwest",
+        "holc_id": "D7",
+        "holc_grade": "D",
+        "area_description_data": {
+          "5": "This is a downtown Negro area, practically 100% built up, repairs in poor condition, many of the houses should be condemned and destroyed.",
+          "6": "Downtown Northwest Section, Negro Area, Miami, Florida D 7",
+          "31": "100",
+          "32": "",
+          "33": "",
+          "1a": "Level",
+          "1b": "Close to schools, churches and shopping centers",
+          "1c": "None from Negro standpoint",
+          "1d": "95",
+          "1e": "Static",
+          "2a": "Porters, maids, laborers and servants",
+          "2b": "400-2,500",
+          "2c": "None None",
+          "2d": "Yes 10",
+          "2e": "None",
+          "2f": "Few",
+          "2g": "moderately  ",
+          "3a": "1 & 2 sty singles  ",
+          "3b": "Frame  ",
+          "3c": "6-20  ",
+          "3d": "Poor  ",
+          "3e": "100  ",
+          "3f": "30  ",
+          "3g": "None  ",
+          "3h": "800-2,000  ",
+          "3i": "1935 1,000-2,500 125   . ",
+          "3j": "1938 1,000-2,500 125    ",
+          "3k": "Good  ",
+          "3l": "Good  ",
+          "3m": "12-40  ",
+          "3n": "1935 12-40 100    ",
+          "3o": "1938 12-40 100    ",
+          "3p": "Good  ",
+          "3q": "Good  ",
+          "4a": "None",
+          "4b": "None"
+        }
+      }
+    }
+  ]
+}
